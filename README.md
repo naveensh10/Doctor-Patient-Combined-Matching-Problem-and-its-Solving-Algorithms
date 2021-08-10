@@ -4,11 +4,11 @@ Solving the doctor-patient matching problem (NP-Hard) using Ant Colony Algorithm
 
 ## Results
 
-<img src="https://github.com/Naveen-1001/Doctor-Patient-Combined-Matching-Problem-and-its-Solving-Algorithms/blob/main/plot1.png" height="200" width="300"> 
-<img src="https://github.com/Naveen-1001/Doctor-Patient-Combined-Matching-Problem-and-its-Solving-Algorithms/blob/main/plot2.png" height="200" width="300">
+<img src="https://github.com/Naveen-1001/Doctor-Patient-Combined-Matching-Problem-and-its-Solving-Algorithms/blob/main/plot1.png" height="300" width="500"> 
+<img src="https://github.com/Naveen-1001/Doctor-Patient-Combined-Matching-Problem-and-its-Solving-Algorithms/blob/main/plot2.png" height="300" width="500">
 
 ## Contributors 
-* Pratham Nayak
-* Naveen Shenoy 
+* Naveen Shenoy
+* Pratham Nayak 
 * Abhinav Bharali
 * Alimurtaza Merchant
